@@ -2,5 +2,5 @@
 
 Hello there!
 
-I am staring my github journey to learn, share, experiment, and create. 
+I am starting my github journey to learn, share, experiment, and create. 
 
